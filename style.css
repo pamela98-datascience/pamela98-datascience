@@ -1,0 +1,40 @@
+
+.d-flex
+{
+    display: flex;
+}
+
+.text-white
+{
+    color: #fff;
+}
+
+.bg-dark
+{
+    background-color: rgb(55, 59, 62);
+}
+
+.circle 
+{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    margin-top: 14rem;
+    margin-left: -7rem;
+    background: rgb(55, 59, 62);
+}
+
+.marge
+{
+    padding: 5rem;
+}
+
+.text-rose
+{
+    color: rgb(213, 173, 225);
+}
+
+.marge1
+{
+    margin-bottom: 2rem;
+}
